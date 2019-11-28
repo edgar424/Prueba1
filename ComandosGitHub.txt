@@ -13,3 +13,6 @@ git status: Este comando muestra la lista de los archivos que se han cambiado ju
 
 git commit -m "mensaje": para confirmar los archivos, de esta manera quedan 
 			guardados nuestras modificaciones.
+
+git push -origin master: sube los archivos al repositorio remoto, 
+		         especificando al branch que le indiquemos
