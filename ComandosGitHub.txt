@@ -1,0 +1,15 @@
+git init: para crear en local un repositorio y 
+	  utilizar todo el funcionamiento de git
+
+git add -A: agregar al repositorio todas las carpetas/archivos 
+	    que estan en nuestro proyecto que Git no esta siguiendo
+
+git add <nombrearchivo>: agregar al repositorio el archivo
+	    		que esta en nuestro proyecto que Git no esta siguiendo
+
+git status: Este comando muestra la lista de los archivos que se han cambiado junto con los archivos 
+	    que están por ser añadidos o comprometidos.
+
+
+git commit -m "mensaje": para confirmar los archivos, de esta manera quedan 
+			guardados nuestras modificaciones.
